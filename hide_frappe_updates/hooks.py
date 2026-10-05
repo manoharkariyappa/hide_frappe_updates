@@ -5,6 +5,9 @@ app_description = "hiding the alerts "
 app_email = "manohar.kariyappa@gmail.com"
 app_license = "mit"
 
+app_include_js = [
+    "/assets/hide_frappe_updates/js/disable_check_update.js"
+]
 # Apps
 # ------------------
 
